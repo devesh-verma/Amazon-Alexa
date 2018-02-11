@@ -1,0 +1,19 @@
+{
+  "name": "amazon-alexa",
+  "version": "1.0.0",
+  "description": "Building skills for Alexa",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devshiva619/Amazon-Alexa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devshiva619/Amazon-Alexa/issues"
+  },
+  "homepage": "https://github.com/devshiva619/Amazon-Alexa#readme"
+}
